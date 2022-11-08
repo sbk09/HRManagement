@@ -1,0 +1,7 @@
+
+0
+java:S1220""Move this file to a named package.
+В
+java:S4602"fRemove the annotation "@SpringBootApplication" or move the annotated class out of the default package.(ы™ҐF8ед€ді0
+}
+java:S1128"[Remove this unused import 'org.springframework.boot.autoconfigure.EnableAutoConfiguration'.(жиюёш€€€€8ЃЁНеі0
